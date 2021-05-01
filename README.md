@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Noah
+### Software developer, American Airman, loving husband, and special needs father
+From self-taught teenager to college-educated veteran, creating software has been a huge part of my life.  I use code to fulfill my lifeline philosophy:
 
-<!--
-**NoahWright87/NoahWright87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Leave the place better than you found it
+Everywhere I go, I try to have a positive impact.  It influences how I program, how I mentor junior developers, and how I raise my kids.  I can't change the world myself, but I can be certain to clean up more messes than I make.
 
-Here are some ideas to get you started:
+### My Interests
+- C# / .NET fanboy
+- Unity game engine - I never gave up my boyhood dream!
+- SQL
+- HTML / CSS / JS
+- Security practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current projects:
+- Fleshing out my dev website to learn *React*
+- Experimenting with *Microsoft Azure* databases and services
+- Improving my old *Spelling Quiz* program to handle all my school-age kids
